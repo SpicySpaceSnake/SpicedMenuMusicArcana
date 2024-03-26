@@ -1,0 +1,47 @@
+[
+  {
+    "op" : "add",
+    "path" : "/music/day/tracks",
+    "value" : "/music/drift-far.ogg"
+  },
+  {
+    "op" : "add",
+    "path" : "/music/day/tracks",
+    "value" : "/music/elegy-of-the-star.ogg"
+  },
+  {
+    "op" : "add",
+    "path" : "/music/day/tracks",
+    "value" : "/music/ophelia.ogg"
+  },
+  {
+    "op" : "add",
+    "path" : "/music/day/tracks",
+    "value" : "/music/outisde-the-citadel.ogg"
+  },
+  {
+    "op" : "add",
+    "path" : "/music/day/tracks",
+    "value" : "/music/permafrost.ogg"
+  },
+  {
+    "op" : "add",
+    "path" : "/music/day/tracks",
+    "value" : "/music/tenacity.ogg"
+  },
+  {
+    "op" : "add",
+    "path" : "/music/day/tracks",
+    "value" : "/music/Vizaydn_Circle_Extended.ogg"
+  },
+  {
+    "op" : "add",
+    "path" : "/music/day/tracks",
+    "value" : "/music/voyager.ogg"
+  },
+  {
+    "op" : "copy",
+    "from" : "/music/day/tracks",
+    "path" : "/music/night/tracks"
+  }
+]
